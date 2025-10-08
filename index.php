@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>HTML Element Counter</title>
     <link href="assets/style.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="assets/jquery-3.7.1.min.js"></script>
 </head>
 <body>
   
@@ -28,8 +28,6 @@
     </form>
 
     <div id="result"></div>
-
-    <!-- Removed the Erin Lindford profile section as it doesn't seem relevant to the element counter functionality -->
 </div>
 
 <script>
